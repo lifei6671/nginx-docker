@@ -1,4 +1,4 @@
-FROM nginx:1.11.0-alpine
+FROM nginx:1.12.0-alpine
 
 MAINTAINER Minho <longfei6671@163.com>
 
